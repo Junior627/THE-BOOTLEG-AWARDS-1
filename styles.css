@@ -1,0 +1,25 @@
+body{
+    text-align:center;
+    color:white;
+}
+.some{
+    height:200px;
+}
+title{
+    font-family:Playfair Display;
+}
+.first{
+    font-family:PT Serif;
+}
+.second{
+    font-family:Lobster;
+}
+.third{
+    font-family:PT Serif;
+}
+.four{
+    font-family:Ubuntu;
+}
+html{
+    background-color:red;
+}
